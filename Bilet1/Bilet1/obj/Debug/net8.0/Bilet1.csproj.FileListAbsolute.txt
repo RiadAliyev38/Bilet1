@@ -260,3 +260,4 @@ C:\Users\riada\OneDrive\Masaüstü\Bilet1\Bilet1\Bilet1\bin\Debug\net8.0\ru\Micr
 C:\Users\riada\OneDrive\Masaüstü\Bilet1\Bilet1\Bilet1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\riada\OneDrive\Masaüstü\Bilet1\Bilet1\Bilet1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\riada\OneDrive\Masaüstü\Bilet1\Bilet1\Bilet1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\riada\OneDrive\Masaüstü\Bilet1\Bilet1\Bilet1\obj\Debug\net8.0\Bilet1.sourcelink.json

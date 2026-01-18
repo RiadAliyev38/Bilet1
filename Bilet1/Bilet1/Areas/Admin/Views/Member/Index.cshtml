@@ -12,7 +12,8 @@
     <div class="card shadow mb-4">
         <div class="card-body">
             <a asp-action="Create" class="btn btn-success">+Add Member</a>
-
+            <br />
+            <br />
 
             <div class="table-responsive">
                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
@@ -36,7 +37,7 @@
                                 <td>@member.FullName</td>
                                 <td>@member.Designation.Name</td>
                                 <td>
-                                    <img src="~/img/@member.ImageUrl?"  style="width:120px; height:120px  object-fit:cover"   >
+                                    <img src="~/img/@member.ImageUrl" alt="" width="80" height="80" style="object-fit:cover" />
                                 </td>
                                 
                                 <td>

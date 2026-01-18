@@ -94,18 +94,36 @@ namespace Bilet1.Areas.Admin.Controllers
                 return NotFound();
             }
 
+
             member.FullName = updateMemberVM.FullName;
             member.DesignationId = updateMemberVM.DesignationId;
             if(updateMemberVM.ImageFile != null)
             {
-                member.ImageUrl= await updateMemberVM.ImageFile.CreateFile(_env.WebRootPath, "img");
+                member.ImageUrl= await updateMemberVM.ImageFile.CreateFile(_env.WebRootPath,"img");
             }
             await _appDbContext.SaveChangesAsync();
+
 
             return RedirectToAction("Index");
         }
 
+        public async Task<IActionResult> Delete(int id)
+        {
+            Member? member = await _appDbContext.Members.FirstOrDefaultAsync(m=>m.Id==id);
 
+            if (member == null)
+            {
+                return NotFound();
+            }
+
+            _appDbContext.Remove(member);
+
+            await _appDbContext.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+
+
+        }
 
         public IActionResult Details()
         {
