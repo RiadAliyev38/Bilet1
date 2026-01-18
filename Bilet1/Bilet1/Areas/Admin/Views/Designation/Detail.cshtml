@@ -1,0 +1,19 @@
+﻿@model Bilet1.Models.Designation
+
+
+
+
+<div class="card" style="width: 30rem;">
+
+    
+    <div class="card-body">
+        Id: @Model.Id 
+        <br>
+        Name: @Model.Name
+        <br>
+        Member count: @Model.Members.Count
+        <br>
+        
+    </div>
+    <a asp-action="Index" class="btn btn-google">Cancel</a>
+</div>

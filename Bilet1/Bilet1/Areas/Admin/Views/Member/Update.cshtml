@@ -1,0 +1,30 @@
+﻿
+
+@model UpdateMemberVM
+
+<form method="post" enctype="multipart/form-data">
+
+        <legend>Create Designation</legend>
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label">FullName</label>
+            <input asp-for="FullName" class=" form-control" placeholder="Enter FullName">
+            <span asp-validation-for="FullName"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ImageFile">Image</label>
+            <input asp-for="ImageFile" class=" form-control" >
+            <span asp-validation-for="ImageFile"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="DesignationId" class="form-label">Image</label>
+        <select class="form-control" asp-for="DesignationId" asp-items="@(new SelectList(Model.Designations , "Id","Name"))">
+                <option value="">Select Designation</option>               
+            </select>
+        <span asp-validation-for="DesignationId"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary"asp-action="Update">Submit</button>
+    <button asp-action="Index" class="btn btn-google">Cancel</button>
+
+</form>
+

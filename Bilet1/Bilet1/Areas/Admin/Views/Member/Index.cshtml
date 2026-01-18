@@ -1,0 +1,58 @@
+﻿
+
+@model List<Member>
+
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Member Table</h1>
+
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-body">
+            <a asp-action="Create" class="btn btn-success">+Add Member</a>
+
+
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>FullName</th>
+                            <th>Designation</th>
+                            <th>Image</th>
+                            <th>Action</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (Member member in Model)
+                        {
+
+                            <tr>
+                                <td>@member.Id</td>
+                                <td>@member.FullName</td>
+                                <td>@member.Designation.Name</td>
+                                <td>
+                                    <img src="~/img/@member.ImageUrl?"  style="width:120px; height:120px  object-fit:cover"   >
+                                </td>
+                                
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@member.Id" class="btn btn-warning">Update</a>
+                                    <a asp-action="Delete" asp-route-id="@member.Id" class="btn btn-danger">Delete</a>
+                                    <a asp-action="Detail" asp-route-id="@member.Id" class="btn btn-info">Detail</a>
+                                </td>
+                            </tr>
+
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->

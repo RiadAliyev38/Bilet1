@@ -1,0 +1,51 @@
+﻿
+
+@model List<Designation>
+
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Designation Table</h1>
+    
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">       
+        <div class="card-body">
+            <a asp-action="Create"  class="btn btn-success">+Add Designation</a>
+
+
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Action</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach(Designation designation in Model)
+                        {
+
+                            <tr>
+                                <td>@designation.Id</td>
+                                <td>@designation.Name</td>
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@designation.Id"  class="btn btn-warning"  >Update</a>
+                                    <a asp-action="Delete" asp-route-id="@designation.Id" class="btn btn-danger">Delete</a>
+                                    <a asp-action="Detail" asp-route-id="@designation.Id" class="btn btn-info">Detail</a>
+                                </td>                               
+                            </tr>
+
+                        }
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->
