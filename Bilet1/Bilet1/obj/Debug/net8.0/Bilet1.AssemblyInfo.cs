@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bilet1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f91855e9bacbe600ccc57b43afad9811262ab1c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a45ebfc7bfa0a5023289489b05bed69819fc9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bilet1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bilet1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

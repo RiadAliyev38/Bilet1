@@ -33570,6 +33570,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\227bf3bd-06ed-4f19-951e-8a98959e4719c#.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2bbfac5d-8fb0-4121-9b60-bc7e3a56c03bbackiee-244436 moon.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bilet1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bilet1</BasePath>
+      <RelativePath>img/2bbfac5d-8fb0-4121-9b60-bc7e3a56c03bbackiee-244436 moon.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>prpr082982</Fingerprint>
+      <Integrity>y8SodDVuAZO/uR2QXUNiilqpx6bDEy9nKsS+yzdghXQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2bbfac5d-8fb0-4121-9b60-bc7e3a56c03bbackiee-244436 moon.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2c55d733-5e0a-42b3-a56c-2f09e1868a15c#.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Bilet1</SourceId>
@@ -33587,6 +33605,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2c55d733-5e0a-42b3-a56c-2f09e1868a15c#.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2cc991de-17e4-497e-828b-ad29a81d1ee0backiee-314666  Uazyy.jpg .jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bilet1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bilet1</BasePath>
+      <RelativePath>img/2cc991de-17e4-497e-828b-ad29a81d1ee0backiee-314666  Uazyy.jpg .jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>22zlolj3ol</Fingerprint>
+      <Integrity>uiArylltdbo98ohlW1LFOxxR8KpTB5C+s/EtosQ7B1k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\2cc991de-17e4-497e-828b-ad29a81d1ee0backiee-314666  Uazyy.jpg .jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\34b5a643-e7b0-40b3-a5ac-a138b9e20fd2backiee-244436 moon.jpg'))">
       <SourceType>Package</SourceType>
@@ -33678,6 +33714,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\5837de11-fa73-4c90-9408-5ecb40420ca6c#.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\711b242d-2017-4344-a31f-1f3227dc04debackiee-312861 black sity.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bilet1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bilet1</BasePath>
+      <RelativePath>img/711b242d-2017-4344-a31f-1f3227dc04debackiee-312861 black sity.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1yigf8m3fv</Fingerprint>
+      <Integrity>6XICMjQOWKt7JSfKMXgZM7hidf8BVAvrnWpP4wklUlI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\711b242d-2017-4344-a31f-1f3227dc04debackiee-312861 black sity.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\87cbbe6f-3829-4f47-9ad9-7a67a1abef7bc#.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Bilet1</SourceId>
@@ -33695,6 +33749,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\87cbbe6f-3829-4f47-9ad9-7a67a1abef7bc#.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\8b7bbc79-b783-46dc-8f4f-5bd2723cb268backiee-314666  Uazyy.jpg .jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bilet1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bilet1</BasePath>
+      <RelativePath>img/8b7bbc79-b783-46dc-8f4f-5bd2723cb268backiee-314666  Uazyy.jpg .jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>22zlolj3ol</Fingerprint>
+      <Integrity>uiArylltdbo98ohlW1LFOxxR8KpTB5C+s/EtosQ7B1k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\8b7bbc79-b783-46dc-8f4f-5bd2723cb268backiee-314666  Uazyy.jpg .jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\8e300369-13a1-4d92-9ad7-8a7c869a8ef2backiee-244436 moon.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bilet1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bilet1</BasePath>
+      <RelativePath>img/8e300369-13a1-4d92-9ad7-8a7c869a8ef2backiee-244436 moon.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>prpr082982</Fingerprint>
+      <Integrity>y8SodDVuAZO/uR2QXUNiilqpx6bDEy9nKsS+yzdghXQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\8e300369-13a1-4d92-9ad7-8a7c869a8ef2backiee-244436 moon.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\994a3cd8-ce00-4652-ace4-9bae5a50c444backiee-312861 black sity.jpg'))">
       <SourceType>Package</SourceType>

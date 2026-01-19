@@ -1,4 +1,6 @@
 using Bilet1.DAL;
+using Bilet1.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Bilet1
@@ -16,6 +18,17 @@ namespace Bilet1
                 builder.Configuration.GetConnectionString("Default"))
             );
 
+            builder.Services.AddIdentity<AppUser, IdentityRole>(ops =>
+            {
+                ops.Password.RequiredLength = 8;
+                ops.User.RequireUniqueEmail = true;
+                ops.Lockout.MaxFailedAccessAttempts = 3;
+                ops.Lockout.AllowedForNewUsers = true;
+                ops.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromSeconds(10);
+            }).AddEntityFrameworkStores<AppDbContext>()
+            .AddDefaultTokenProviders();
+
+
 
             var app = builder.Build();
 
@@ -27,9 +40,11 @@ namespace Bilet1
 
             app.UseRouting();
 
+
+            app.UseAuthentication();
             app.UseAuthorization();
             
-
+                    
             app.MapControllerRoute(
             name: "areas",
             pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");

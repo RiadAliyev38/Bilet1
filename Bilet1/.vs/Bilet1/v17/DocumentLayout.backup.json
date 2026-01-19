@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Migrations\\20260119080454_addapopuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilet1\\Migrations\\20260119080454_addapopuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\bilet1\\bilet1\\bilet1\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\bilet1\\bilet1\\bilet1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\bilet1\\bilet1\\bilet1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\bilet1\\bilet1\\bilet1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\bilet1\\bilet1\\bilet1\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\bilet1\\bilet1\\bilet1\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|c:\\users\\riada\\onedrive\\masa\u00FCst\u00FC\\bilet1\\bilet1\\bilet1\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9E2C9B5-E2BA-492F-B470-C292266F69F8}|Bilet1\\Bilet1.csproj|solutionrelative:bilet1\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -42,97 +70,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml",
-              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml*",
-              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T22:14:29.036Z",
+              "DocumentIndex": 0,
+              "Title": "20260119080454_addapopuser.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Migrations\\20260119080454_addapopuser.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Migrations\\20260119080454_addapopuser.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Migrations\\20260119080454_addapopuser.cs",
+              "RelativeToolTip": "Bilet1\\Migrations\\20260119080454_addapopuser.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:04:54.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Program.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Program.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Program.cs",
+              "RelativeToolTip": "Bilet1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:59:57.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T21:18:15.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Bilet1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T21:02:47.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Bilet1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABABAAAAAAAAAAAgwCcBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T21:01:45.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Bilet1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Bilet1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bilet1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Bilet1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:59:36.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
-              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T20:44:08.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml",
-              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml*",
-              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T20:22:19.47Z",
+              "WhenOpened": "2026-01-19T07:59:33.383Z",
               "EditorCaption": ""
             },
             {
@@ -145,7 +121,144 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Models\\AppUser.cs",
+              "RelativeToolTip": "Bilet1\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:58:49.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Bilet1\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Bilet1\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:57:46.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Bilet1\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Bilet1\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:57:38.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController1.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Controllers\\AccountController1.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Controllers\\AccountController1.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Controllers\\AccountController1.cs",
+              "RelativeToolTip": "Bilet1\\Controllers\\AccountController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:56:46.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Designation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T22:14:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T21:18:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bilet1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T21:02:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bilet1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABABAAAAAAAAAAAgwCcBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T21:01:45.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bilet1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:59:36.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:44:08.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T20:22:19.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\riada\\OneDrive\\Masa\u00FCst\u00FC\\Bilet1\\Bilet1\\Bilet1\\Areas\\Admin\\Views\\Member\\Update.cshtml",
               "RelativeDocumentMoniker": "Bilet1\\Areas\\Admin\\Views\\Member\\Update.cshtml",
@@ -153,8 +266,7 @@
               "RelativeToolTip": "Bilet1\\Areas\\Admin\\Views\\Member\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T19:46:50.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T19:46:50.038Z"
             }
           ]
         },
